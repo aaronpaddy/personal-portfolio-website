@@ -132,5 +132,4 @@ This project is open source and available under the MIT License.
 
 For questions or collaboration opportunities:
 - Email: aaronpaddy4@gmail.com
-- Location: Grambling, LA
 - Open to: Internships, Open Source, Research & Collaborative Projects
